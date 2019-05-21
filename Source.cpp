@@ -3,7 +3,7 @@
 using namespace ArrayExtension;
 using namespace std;
 
-int main(int argc, const char * argv[]) 
+int main() 
 {
 	int n = inputNumber();
 	int* array = allocateMemory(n);
